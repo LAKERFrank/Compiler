@@ -1,6 +1,5 @@
 
 # 方淳浲
-![This is a alt text.](/HTML/image/120280671_329622364772386_8545397781098629696_n.jpg "This is a sample image.")
 ## 就讀中央大學
 ### 就讀學系
 * MIS
