@@ -1,7 +1,6 @@
 
 # 方淳浲
 ## 就讀中央大學
-# [連接到我的自我介紹](https://lakerfrank.github.io/lakerfrank96270.github.io/)
 ### 就讀學系
 * MIS
 * 雙主修CSIE
