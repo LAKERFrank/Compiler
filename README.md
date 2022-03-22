@@ -1,13 +1,11 @@
 # Compiler的課堂作業
 
 ## 作業一
-Scanner
-check Scanner.ccp
+Scanner.ccp
 
 
 ## 作業二
-Parser
-check Parser.cpp
+Parser.cpp
 
 
 
