@@ -1,16 +1,14 @@
-這裡是Compiler的課堂作業
+# Compiler的課堂作業
 
-作業一
+## 作業一
 Scanner
+check Scanner.ccp
 
-作業二
+
+## 作業二
 Parser
+check Parser.cpp
 
-作業三
-First set
-
-作業四
-Follow set
 
 
 
